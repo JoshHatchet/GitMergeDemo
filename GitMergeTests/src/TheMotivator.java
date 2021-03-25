@@ -27,7 +27,11 @@ public class TheMotivator {
 // adding happy comments
 // more comments
 <<<<<<< HEAD
+<<<<<<< HEAD
 git 
+=======
+
+>>>>>>> master
 =======
 
 >>>>>>> master
