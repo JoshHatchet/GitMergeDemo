@@ -13,5 +13,10 @@ public class TheMotivator {
 	public static void main(String[] args) {
 		TheMotivator tm = new TheMotivator();
 		tm.feedback(60);
+		TheMotivator test = new TheMotivator();
+		test.feedback(92);
 	}
+// adding happy comments
+// more comments
+
 }
